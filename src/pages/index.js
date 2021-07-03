@@ -9,10 +9,12 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <h1>Prozessoren Vergleichsportal</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <p>Finden sie den optimalen Prozessor für ihren Computer</p>
+    <p>Intel VS AMD</p>
+    <p>Unsere CPU Empfehlungen</p>
+    
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src=
       width={300}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
