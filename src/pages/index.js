@@ -14,7 +14,7 @@ const IndexPage = () => (
     <p>Unsere CPU Empfehlungen</p>
     
     <StaticImage
-      src=
+      src="../images/gatsbyastronaut.png"
       width={300}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
